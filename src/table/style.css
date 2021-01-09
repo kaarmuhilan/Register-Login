@@ -1,0 +1,23 @@
+h1, p {
+    font-family: Lato;
+  }
+
+  table {
+    width: 100%;
+    border-spacing: 0;
+    border: 1px solid black;
+      }
+    th,
+    td {
+      margin: 0;
+      padding: 2rem;
+      border-bottom: 1px solid black;
+      border-right: 1px solid black;
+    }
+    button {
+        height: 3vh;
+        box-sizing: content-box;
+        background-color:lavenderblush;
+        font-family:'Roboto',sans-serif;
+
+    }
